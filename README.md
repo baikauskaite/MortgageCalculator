@@ -1,4 +1,4 @@
-*The program's interface is in Lithuanian language*
+*The program's interface is in Lithuanian language, however, work is being done to translate it to English*
 
 # Mortgage Calculator
 
