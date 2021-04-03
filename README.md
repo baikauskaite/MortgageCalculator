@@ -13,6 +13,18 @@ A Java mortgage calculator using the JavaFX library. The fulfilled project requi
 	* Ability to see the calculation of paymens in a table
 	* Ability to output the calculations to a `txt` file
 
+## How to run the program
+
+Be sure to install [JavaFX SDK version 11] (https://gluonhq.com/products/javafx/) or later. You can run the code on Intellij or use it to create an executable `.jar` file from source files.
+Open terminal where the `.jar` file was created and enter:
+
+	java --module-path PATH --add-modules javafx.controls,javafx.fxml -jar Project2.jar
+	
+Instead of the `PATH` placeholder specify the path to the lib folder in the JavaFX SDK package in your computer, for example:
+
+	/Users/jetbrains/Desktop/javafx-sdk-12/lib
+
+
 ## Screenshots
 
 **The main screen for entering data**
