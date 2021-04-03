@@ -15,7 +15,7 @@ A Java mortgage calculator using the JavaFX library. The fulfilled project requi
 
 ## How to run the program
 
-Be sure to install [JavaFX SDK version 11] (https://gluonhq.com/products/javafx/) or later. You can run the code on Intellij or use it to create an executable `.jar` file from source files.
+Be sure to install [JavaFX SDK version 11](https://gluonhq.com/products/javafx/) or later. You can run the code on Intellij or use it to create an executable `.jar` file from source files.
 Open terminal where the `.jar` file was created and enter:
 
 	java --module-path PATH --add-modules javafx.controls,javafx.fxml -jar Project2.jar
