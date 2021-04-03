@@ -6,11 +6,11 @@ This program has been written as a project during the second semester of the BSc
 
 A Java mortgage calculator using the JavaFX library. The fulfilled project requirements include:
 
-	* Used the keyword `this` and `super`
+	* Used the keywords `this` and `super`
 	* Method and field overriding
 	* Ability to choose either a linear or annuity method of mortgage calculation
-	* Ability to see the calculation of paymens in a graph
-	* Ability to see the calculation of paymens in a table
+	* Ability to see the calculation of payments in a graph
+	* Ability to see the calculation of payments in a table
 	* Ability to output the calculations to a `txt` file
 
 ## How to run the program
