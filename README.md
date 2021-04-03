@@ -1,4 +1,4 @@
-*The program's interface is in Lithuanian language, however, work is being done to translate it to English*
+*The program's interface is in Lithuanian language, however, work is being done to translate it to English.*
 
 This program has been written as a project during the second semester of the BSc Software Engineering degree in Vilnius University.
 
